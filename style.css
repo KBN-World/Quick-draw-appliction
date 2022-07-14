@@ -1,0 +1,21 @@
+body {
+  background-color: darkgoldenrod;
+}
+
+#spam{
+    font-weight: bolder;
+    font-size: medium;
+    margin-right: 200px;
+    text-decoration-color:blue ;
+    text-decoration: dotted;
+    float:right
+}
+
+#span{
+    font-weight: bolder;
+    font-size: medium;
+    margin-left: 200px;
+    text-decoration-color: crimson;
+    text-decoration: dashed;
+    float:left;
+}
